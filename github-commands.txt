@@ -1,0 +1,11 @@
+1.create repo
+	- goto website
+	- click on "new repository"
+	- fill"name"
+
+2.Goto local repository folder
+3. Right click > "git bash here". In terminal:
+	- git init
+	- git add .
+	
+ 
