@@ -1,11 +1,23 @@
+
+[NEW REPO]
+==========
+
 1.create repo
 	- goto website
 	- click on "new repository"
 	- fill"name"
 
 2.Goto local repository folder
-3. Right click > "git bash here". In terminal:
+3. Right click -> "git bash here". In terminal:
 	- git init
 	- git add .
-	
+	- git commit -m "My First Commit"
+	- git remote add origin <repo-link>
+	- git push -u origin master
+
  
+[sECOND-TIME]
+=============
+	- git add .
+	- git commit -m"line 22 changed"
+	- git push
